@@ -13,7 +13,6 @@ As part of my Final Project for the **Graphic Design Technology** program at Uni
 
 These deliverables formed the foundation for user-centered wireframes and prototypes, aligning audience needs with TripCirco’s business objectives.
 
-### 📸 Gallery
 
 <p align="center">
   <img src="./images/tripcirco-ux-research_desk-research.jpg" alt="Desk Research Overview" width="300" />
