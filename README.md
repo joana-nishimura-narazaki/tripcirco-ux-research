@@ -14,8 +14,6 @@ As part of my Final Project for the **Graphic Design Technology** program at Uni
 These deliverables formed the foundation for user-centered wireframes and prototypes, aligning audience needs with TripCirco’s business objectives.
 
 
-<p align="center">
-  <img src="./images/tripcirco-ux-research_desk-research.jpg" alt="Desk Research Overview" width="300" />
-  <img src="./images/tripcirco-ux-research_personas.jpg" alt="User Personas" width="300" />
-  <img src="./images/tripcirco-ux-research_user-journey.jpg" alt="User Journey Map" width="300" />
-</p>
+tripcirco-ux-research_desk-research.jpg  
+tripcirco-ux-research_personas.jpg  
+tripcirco-ux-research_user-journey.jpg  
